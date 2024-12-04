@@ -8,6 +8,10 @@ Welcome to my GitHub page! Here you'll find some useful tools I'm working on.
 [![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab)
 [![Email](https://img.shields.io/badge/Email-lamarckLab@163.com-red?style=flat-square&logo=gmail)](mailto:lamarckLab@163.com)
 
+### Connect With Me
+📧 [发送邮件](mailto:lamarckLab@163.com)
+
+
 - **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
 
 <div align="center">
