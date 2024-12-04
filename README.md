@@ -1,6 +1,6 @@
-# YOLO ~ ~ ~
+# Haloooooo ~ ~ ~
 
-Welcome to my GitHub page! Here you'll find projects that I've worked on and ideas I'm exploring.
+Welcome to my GitHub page! Here you'll find some useful tools I'm working on.
 
 ## Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab)
