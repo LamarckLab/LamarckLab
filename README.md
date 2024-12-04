@@ -1,4 +1,6 @@
 # Haloooooo ~ ~ ~
+![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
+
 
 Welcome to my GitHub page! Here you'll find some useful tools I'm working on.
 
