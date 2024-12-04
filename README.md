@@ -12,6 +12,6 @@ Welcome to my GitHub page! Here you'll find some useful tools I'm working on.
 
 <div align="center">
   <a href="https://github.com/LamarckLab">
-    <img src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff" alt="Lamarck's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff" alt="L. Mingkai's GitHub Stats">
   </a>
 </div>
