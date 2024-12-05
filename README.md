@@ -18,17 +18,24 @@
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages**:
-  - ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+## 🛠️ Tech Stack
 
-- **Operating System**:
-  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+### Programming Languages:
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+</div>
+
+### Operating System:
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+</div>
+
 
 
 </div>
