@@ -17,9 +17,19 @@
   <a href="https://github.com/LamarckLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+- **Programming Languages**:
+  - ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+
+- **Operating System**:
+  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
 
 </div>
 
