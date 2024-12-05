@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   
   # Haloooooo ~ ~ ~
   ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
