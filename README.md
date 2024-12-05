@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
   # Haloooooo ~ ~ ~
   ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
@@ -12,11 +12,4 @@
   - **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
 
   <br>
-  
- 
-
-
-
-
-
 </div>
