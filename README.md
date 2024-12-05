@@ -13,6 +13,7 @@
 
   <br>
   
-  https://github-readme-stats-ldag73a4c-lamarcks-projects.vercel.app/api?username=LamarckLab
+  [![LamarckLab's GitHub Stats](https://github-readme-stats-ldag73a4c-lamarcks-projects.vercel.app/api?username=LamarckLab)](https://github.com/LamarckLab)
+
 
 </div>
