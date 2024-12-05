@@ -20,7 +20,6 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages:
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
@@ -29,10 +28,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
-</div>
-
-### Operating System:
-<div style="display: inline-block">
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 </div>
 
