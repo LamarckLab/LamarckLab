@@ -10,8 +10,5 @@ Welcome to my GitHub page! Here you'll find some useful tools I'm working on.
 
 - **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
 
-<div align="center">
-  <a href="https://github.com/LamarckLab">
-    <img src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff" alt="L. Mingkai's GitHub Stats">
-  </a>
-</div>
+![L. Mingkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=onedark)
+
