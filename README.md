@@ -1,6 +1,4 @@
-<div align="center">
-  
-  # Haloooooo ~ ~ ~
+# Haloooooo ~ ~ ~
   ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
 
   Welcome to my GitHub page! Here you'll find some useful tools I'm working on.
@@ -11,12 +9,10 @@
 
   - **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
 
-  <br>
-  
+<br>
+
+<div align="center">
   ![L. Mingkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=onedark)
   <br>
-  [![L. Mingkai's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LamarckLab&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <br>
   [![trophy](https://github-profile-trophy.vercel.app/?username=LamarckLab&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
