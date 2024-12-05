@@ -16,5 +16,20 @@
   <a href="https://github.com/LamarckLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=ondark&hide_border=true" alt="LamarckLab's github stats" /></a>
   <a href="https://github.com/LamarckLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=buefy&hide_border=true" /></a>
 
+## 🛠️ 技术栈
+### 编程语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 框架和库
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 工具和平台
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
