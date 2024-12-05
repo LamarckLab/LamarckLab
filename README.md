@@ -13,7 +13,7 @@
 
   <br>
   
-  ![GitHub Readme Stats](https://github-readme-stats-ldag73a4c-lamarcks-projects.vercel.app/api?username=LamarckLab)
+ 
 
 
 
