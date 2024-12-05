@@ -13,5 +13,6 @@
 
   <br>
   
-  ![L. Mingkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=onedark)
+  https://github-readme-stats-ldag73a4c-lamarcks-projects.vercel.app/api?username=LamarckLab
+
 </div>
