@@ -13,7 +13,8 @@
 
   <br>
   
-  <img src="https://github-readme-stats-ldag73a4c-lamarcks-projects.vercel.app/api?username=LamarckLab" alt="GitHub Stats" />
+  ![GitHub Stats](https://cdn.jsdelivr.net/gh/LamarckLab/github-readme-stats@master/api?username=LamarckLab)
+
 
 
 </div>
