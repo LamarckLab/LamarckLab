@@ -15,7 +15,8 @@
   
   ![L. Mingkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=onedark)
   <br>
-  [![L. Mingkai's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LamarckLab&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![GitHub followers](https://img.shields.io/github/followers/LamarckLab?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/LamarckLab?style=for-the-badge)
   <br>
   [![trophy](https://github-profile-trophy.vercel.app/?username=LamarckLab&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
