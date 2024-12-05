@@ -12,6 +12,6 @@ Welcome to my GitHub page! Here you'll find some useful tools I'm working on.
 
 <br><br>
 
-![L. Mingkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=dark)
+![L. Mingkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=onedark)
 
 
