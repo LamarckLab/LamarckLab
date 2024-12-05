@@ -10,5 +10,7 @@ Welcome to my GitHub page! Here you'll find some useful tools I'm working on.
 
 - **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
 
-![L. Mingkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=onedark)
-
+<br><br>
+<div align="center">
+  ![L. Mingkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=onedark)
+</div>
