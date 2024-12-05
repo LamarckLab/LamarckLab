@@ -13,8 +13,8 @@
 
   <br>
   
-  <a href="https://github.com/LamarkLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LamarckLab's github stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/LamarckLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LamarckLab's github stats" /></a>
+  <a href="https://github.com/LamarckLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=buefy&hide_border=true" /></a>
 
 </div>
 
