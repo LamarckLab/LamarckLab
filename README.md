@@ -3,7 +3,7 @@
   # Halooooo😀~ &nbsp; &nbsp; Welcome to Lamarck's Lab !
   ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
 
-  Welcome to Lamarck's GitHub page! Here you'll find some useful tools I'm working on.
+  This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on.
 
   ## Connect With Me
   [![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab)
