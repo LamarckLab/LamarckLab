@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Halooooo😋~ &nbsp; &nbsp; Welcome to Lamarck's Lab !
+  # HaloooooO(∩_∩)O~ &nbsp; &nbsp; Welcome to Lamarck's Lab !
   ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
 
   This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on.
