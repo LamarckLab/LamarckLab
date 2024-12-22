@@ -13,8 +13,10 @@
 
   <br>
   
+  <!--
   <a href="https://github.com/LamarckLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="LamarckLab's github stats" /></a>
   <a href="https://github.com/LamarckLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  -->
   
   <!-- Dark Mode -->
 <div align="center"> 
