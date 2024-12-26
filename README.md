@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Halooooo<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>~ &nbsp; &nbsp; Welcome to Lamarck's Lab !
+  # Halooooo~ &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> &nbsp; &nbsp; Welcome to Lamarck's Lab !
   ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
 
   This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on.
