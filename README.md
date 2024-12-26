@@ -22,10 +22,10 @@
 <div align="center"> 
 
 <a href="https://github.com/LamarckLab/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="LamarckLab's Language stats" />
+<img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="LamarckLab's Language stats" />
 </a>
 <a href="https://github.com/LamarckLab/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LamarckLab&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="LamarckLab's Github stats"/>
+<img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LamarckLab&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="LamarckLab's Github stats"/>
   
 </a>
 </div>
