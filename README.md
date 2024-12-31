@@ -13,19 +13,16 @@
 
   <br>
   
-  <!--
-  <a href="https://github.com/LamarckLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="LamarckLab's github stats" /></a>
-  <a href="https://github.com/LamarckLab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=tokyonight&hide_border=true" /></a>
-  -->
-  
-  <!-- Dark Mode -->
+
+<!--The best color: gruvbox-->
+
 <div align="center"> 
 
 <a href="https://github.com/LamarckLab/github-readme-stats#gh-dark-mode-only">
-<img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=gruvbox&bg_color=000000#gh-dark-mode-only" alt="LamarckLab's Language stats" />
+<img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=cobalt&bg_color=000000#gh-dark-mode-only" alt="LamarckLab's Language stats" />
 </a>
 <a href="https://github.com/LamarckLab/github-readme-stats#gh-dark-mode-only">
-<img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LamarckLab&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&exclude_repo=github-readme-stats&theme=gruvbox&bg_color=000000#gh-dark-mode-only" alt="LamarckLab's Github stats"/>
+<img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LamarckLab&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&exclude_repo=github-readme-stats&theme=cobalt&bg_color=000000#gh-dark-mode-only" alt="LamarckLab's Github stats"/>
   
 </a>
 </div>
