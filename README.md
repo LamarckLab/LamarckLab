@@ -29,7 +29,7 @@
 
 <p align="center">
 <br>
-<img title="" src="https://github-readme-activity-graph.vercel.app/graph?username=LamarckLab&theme=nightowl"/>
+<img title="" src="https://github-readme-activity-graph.vercel.app/graph?username=LamarckLab&theme=merko"/>
 <br>
 <img title="" src="https://prv-readme-streak.dpip.lol/?user=LamarckLab&theme=midnight-purple&hide_border=true&stroke=f53b3b"/>  
 </p>
