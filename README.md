@@ -41,7 +41,7 @@
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Jupyter-Notebook-FF8500?logo=jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-FF8500?logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" />
