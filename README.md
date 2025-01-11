@@ -41,6 +41,7 @@
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-FF8500?logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -49,7 +50,6 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-FF8500?logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 </div>
 </div>
