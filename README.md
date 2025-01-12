@@ -53,7 +53,5 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-### [🐍](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
