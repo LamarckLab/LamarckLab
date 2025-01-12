@@ -52,4 +52,8 @@
   <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 </div>
+
+### 3.5 [Full year calendar](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
