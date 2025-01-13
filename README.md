@@ -64,6 +64,7 @@
 
   <h2>🧰 Favorite Tools and Libraries</h2>
     <p>
+      <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-42B029.svg?logo=anaconda&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
   </p>
 
