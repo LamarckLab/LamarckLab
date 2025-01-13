@@ -57,17 +57,9 @@
       <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white"/>
       <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
       <img alt="SpringMVC" src="https://img.shields.io/badge/SpringMVC-6DB33F.svg?logo=spring&logoColor=white"/>
-
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
-      
     </p>
-  
-  
-  
-  
-  
-  
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
