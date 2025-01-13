@@ -62,5 +62,10 @@
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
     </p>
 
+  <h2>🧰 Favorite Tools and Libraries</h2>
+    <p>
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
+  </p>
+
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
