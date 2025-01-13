@@ -39,6 +39,7 @@
 
   <h2>🛠️ Tech Stack</h2>
     <p>
+      <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-42B029.svg?logo=anaconda&logoColor=white"/>
       <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4.svg?logo=axios&logoColor=white"/>
       <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/>
       <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"/>
@@ -54,6 +55,7 @@
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"/>
       <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"/>
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"/>
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
       <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white"/>
       <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
@@ -61,12 +63,6 @@
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
     </p>
-
-  <h2>🧰 Favorite Tools and Libraries</h2>
-    <p>
-      <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-42B029.svg?logo=anaconda&logoColor=white"/>
-      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
-  </p>
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
