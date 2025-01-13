@@ -51,12 +51,13 @@
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"/>
       <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"/>
-      <img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-1D4ED8.svg?logo=apachemybatis&logoColor=white"/>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"/>
       <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"/>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
       <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white"/>
       <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
+      <img alt="SpringMVC" src="https://img.shields.io/badge/SpringMVC-6DB33F.svg?logo=spring&logoColor=white"/>
+
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
       
