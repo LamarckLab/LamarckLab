@@ -37,7 +37,7 @@
 </div>
 
 
-  <h2>🛠️ Tech Stack</h2>
+  <h2>🛠️ Tech Stack & Favorite Tools</h2>
     <p>
       <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-42B029.svg?logo=anaconda&logoColor=white"/>
       <img alt="Apifox" src="https://img.shields.io/badge/Apifox-FF7133.svg?logo=apifox&logoColor=white"/>
@@ -57,6 +57,7 @@
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"/>
       <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"/>
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"/>
+      <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
       <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white"/>
