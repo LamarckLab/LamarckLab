@@ -65,6 +65,7 @@
       <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
       <img alt="SpringMVC" src="https://img.shields.io/badge/SpringMVC-6DB33F.svg?logo=spring&logoColor=white"/>
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
+      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
       <img alt="Tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75.svg?logo=apache-tomcat&logoColor=black"/>
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
     </p>
