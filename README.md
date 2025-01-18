@@ -52,7 +52,7 @@
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
       <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"/>
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Lombok-%23A8B9CC.svg?style=for-the-badge&logo=lombok&logoColor=white" alt="Lombok Badge">
+      <img src="https://img.shields.io/badge/Lombok-007ACC?style=flat-square&logo=lombok&logoColor=white" alt="Lombok Badge">
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"/>
       <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"/>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"/>
