@@ -64,6 +64,7 @@
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
       <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white"/>
+      <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
       <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
       <img alt="SpringMVC" src="https://img.shields.io/badge/SpringMVC-6DB33F.svg?logo=spring&logoColor=white"/>
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
