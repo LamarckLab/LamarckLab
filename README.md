@@ -70,6 +70,7 @@
 
   <h2>🧰 Favorite Frameworks and Libraries</h2>
     <p>
+      <img alt="data.table" src="https://img.shields.io/badge/data.table-0288D1.svg?logo=r&logoColor=white"/>
       <img alt="DESeq2" src="https://img.shields.io/badge/DESeq2-118AB2.svg?logo=r&logoColor=white"/>
       <img alt="dplyr" src="https://img.shields.io/badge/dplyr-3182BD.svg?logo=r&logoColor=white"/>
       <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-377EB8.svg?logo=r&logoColor=white"/>
