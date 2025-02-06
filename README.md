@@ -46,6 +46,7 @@
       <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/>
       <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"/>
       <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
+      <img alt="DESeq2" src="https://img.shields.io/badge/DESeq2-118AB2.svg?logo=r&logoColor=white"/>
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
       <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"/>
