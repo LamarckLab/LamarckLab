@@ -83,6 +83,7 @@
       <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
       <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?logo=sympy&logoColor=white"/>
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
+      <img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-999999.svg?logo=r&logoColor=white"/>
       <img alt="vegan" src="https://img.shields.io/badge/vegan-008000.svg?logo=r&logoColor=white"/>
     </p>
 
