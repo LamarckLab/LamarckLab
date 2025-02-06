@@ -84,6 +84,7 @@
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
       <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"/>
       <img alt="readr" src="https://img.shields.io/badge/readr-FFBB33.svg?logo=r&logoColor=white"/>
+      <img alt="scales" src="https://img.shields.io/badge/scales-31A354.svg?logo=r&logoColor=white"/>
       <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
       <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?logo=sympy&logoColor=white"/>
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
