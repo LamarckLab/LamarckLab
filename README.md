@@ -72,6 +72,7 @@
     <p>
       <img alt="DESeq2" src="https://img.shields.io/badge/DESeq2-118AB2.svg?logo=r&logoColor=white"/>
       <img alt="dplyr" src="https://img.shields.io/badge/dplyr-3182BD.svg?logo=r&logoColor=white"/>
+      <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-377EB8.svg?logo=r&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="Matplotlib (Pyplot)" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
