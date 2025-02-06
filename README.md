@@ -76,6 +76,7 @@
       <img alt="ggpubr" src="https://img.shields.io/badge/ggpubr-8E44AD.svg?logo=r&logoColor=white"/>
       <img alt="ggrepel" src="https://img.shields.io/badge/ggrepel-1F77B4.svg?logo=r&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
+      <img alt="magrittr" src="https://img.shields.io/badge/magrittr-B22222.svg?logo=r&logoColor=white"/>
       <img alt="Matplotlib (Pyplot)" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
       <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"/>
