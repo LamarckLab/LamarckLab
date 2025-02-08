@@ -94,9 +94,12 @@
 
   <h2>💻 Relevant Python libraries & Frameworks</h2>
     <p>
+      <img alt="Biopython" src="https://img.shields.io/badge/Biopython-3776AB.svg?logo=python&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="Matplotlib (Pyplot)" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
+      <img alt="re (Python)" src="https://img.shields.io/badge/re-3776AB.svg?logo=python&logoColor=white"/>
       <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
       <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?logo=sympy&logoColor=white"/>
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
