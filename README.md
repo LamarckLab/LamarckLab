@@ -68,7 +68,7 @@
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
     </p>
 
-  <h2>🧰 Most used frameworks and packages</h2>
+  <h2>🧰 Relevant R packages & Frameworks</h2>
     <p>
       <img alt="data.table" src="https://img.shields.io/badge/data.table-0288D1.svg?logo=r&logoColor=white"/>
       <img alt="DESeq2" src="https://img.shields.io/badge/DESeq2-118AB2.svg?logo=r&logoColor=white"/>
