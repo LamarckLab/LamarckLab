@@ -89,6 +89,7 @@
       <img alt="scales" src="https://img.shields.io/badge/scales-31A354.svg?logo=r&logoColor=white"/>
       <img alt="tidyverse" src="https://img.shields.io/badge/tidyverse-999999.svg?logo=r&logoColor=white"/>
       <img alt="vegan" src="https://img.shields.io/badge/vegan-008000.svg?logo=r&logoColor=white"/>
+      <img alt="WGCNA" src="https://img.shields.io/badge/WGCNA-6A3D9A.svg?logo=r&logoColor=white"/>
     </p>
 
   <h2>💻 Relevant Python libraries & Frameworks</h2>
