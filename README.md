@@ -93,21 +93,22 @@
     </p>
 
   <h2>💻 Relevant Python libraries & Frameworks</h2>
-    <p>
-      <img alt="Biopython" src="https://img.shields.io/badge/Biopython-3776AB.svg?logo=python&logoColor=white"/>
-      <img alt="copy (Python)" src="https://img.shields.io/badge/copy-3776AB.svg?logo=python&logoColor=white"/>
-      <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
-      <img alt="logging (Python)" src="https://img.shields.io/badge/logging-3776AB.svg?logo=python&logoColor=white"/>
-      <img alt="math (Python)" src="https://img.shields.io/badge/math-3776AB.svg?logo=python&logoColor=white"/>
-      <img alt="Matplotlib (Pyplot)" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
-      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
-      <img alt="os (Python)" src="https://img.shields.io/badge/os-3776AB.svg?logo=python&logoColor=white"/>
-      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
-      <img alt="re (Python)" src="https://img.shields.io/badge/re-3776AB.svg?logo=python&logoColor=white"/>
-      <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
-      <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?logo=sympy&logoColor=white"/>
-      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
-    </p>
+<p>
+  <img alt="Biopython" src="https://img.shields.io/badge/Biopython-0099FF.svg?logo=python&logoColor=white"/>
+  <img alt="copy (Python)" src="https://img.shields.io/badge/copy-FFD43B.svg?logo=python&logoColor=white"/>
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
+  <img alt="logging (Python)" src="https://img.shields.io/badge/logging-4B8BBE.svg?logo=python&logoColor=white"/>
+  <img alt="math (Python)" src="https://img.shields.io/badge/math-306998.svg?logo=python&logoColor=white"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
+  <img alt="os (Python)" src="https://img.shields.io/badge/os-FFE873.svg?logo=python&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
+  <img alt="re (Python)" src="https://img.shields.io/badge/re-646464.svg?logo=python&logoColor=white"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
+  <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?logo=sympy&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
+</p>
+
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
