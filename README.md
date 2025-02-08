@@ -70,7 +70,10 @@
 
   <h2>🧰 Relevant R libraries & Frameworks</h2>
     <p>
-      <img alt="data.table" src="https://img.shields.io/badge/data.table-0288D1.svg?logo=r&logoColor=white"/>
+      <img alt="AnnotationDbi" src="https://img.shields.io/badge/AnnotationDbi-6A3D9A.svg?logo=r&logoColor=white"/>
+      <img alt="biomaRt" src="https://img.shields.io/badge/biomaRt-FF7F00.svg?logo=r&logoColor=white"/>
+      <img alt="clusterProfiler" src="https://img.shields.io/badge/clusterProfiler-1F78B4.svg?logo=r&logoColor=white"/>
+      <img alt="data.table (R)" src="https://img.shields.io/badge/data.table-0288D1.svg?logo=r&logoColor=white"/>
       <img alt="DESeq2" src="https://img.shields.io/badge/DESeq2-118AB2.svg?logo=r&logoColor=white"/>
       <img alt="dplyr" src="https://img.shields.io/badge/dplyr-3182BD.svg?logo=r&logoColor=white"/>
       <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-377EB8.svg?logo=r&logoColor=white"/>
@@ -80,6 +83,7 @@
       <img alt="glue" src="https://img.shields.io/badge/glue-56B4E9.svg?logo=r&logoColor=white"/>
       <img alt="latex2exp" src="https://img.shields.io/badge/latex2exp-008080.svg?logo=r&logoColor=white"/>
       <img alt="magrittr" src="https://img.shields.io/badge/magrittr-B22222.svg?logo=r&logoColor=white"/>
+      <img alt="org.Hs.eg.db" src="https://img.shields.io/badge/org.Hs.eg.db-0072B2.svg?logo=r&logoColor=white"/>
       <img alt="plotly" src="https://img.shields.io/badge/plotly-3F4F75.svg?logo=r&logoColor=white"/>
       <img alt="readr" src="https://img.shields.io/badge/readr-FFBB33.svg?logo=r&logoColor=white"/>
       <img alt="scales" src="https://img.shields.io/badge/scales-31A354.svg?logo=r&logoColor=white"/>
