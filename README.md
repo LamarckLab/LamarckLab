@@ -98,6 +98,7 @@
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="Matplotlib (Pyplot)" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
+      <img alt="os (Python)" src="https://img.shields.io/badge/os-3776AB.svg?logo=python&logoColor=white"/>
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
       <img alt="re (Python)" src="https://img.shields.io/badge/re-3776AB.svg?logo=python&logoColor=white"/>
       <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
