@@ -80,13 +80,8 @@
       <img alt="glue" src="https://img.shields.io/badge/glue-56B4E9.svg?logo=r&logoColor=white"/>
       <img alt="latex2exp" src="https://img.shields.io/badge/latex2exp-008080.svg?logo=r&logoColor=white"/>
       <img alt="magrittr" src="https://img.shields.io/badge/magrittr-B22222.svg?logo=r&logoColor=white"/>
-      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
-      <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"/>
       <img alt="readr" src="https://img.shields.io/badge/readr-FFBB33.svg?logo=r&logoColor=white"/>
       <img alt="scales" src="https://img.shields.io/badge/scales-31A354.svg?logo=r&logoColor=white"/>
-      <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
-      <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?logo=sympy&logoColor=white"/>
-      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
       <img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-999999.svg?logo=r&logoColor=white"/>
       <img alt="vegan" src="https://img.shields.io/badge/vegan-008000.svg?logo=r&logoColor=white"/>
     </p>
@@ -97,13 +92,9 @@
       <img alt="Matplotlib (Pyplot)" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
       <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"/>
-      <img alt="readr" src="https://img.shields.io/badge/readr-FFBB33.svg?logo=r&logoColor=white"/>
-      <img alt="scales" src="https://img.shields.io/badge/scales-31A354.svg?logo=r&logoColor=white"/>
       <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
       <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?logo=sympy&logoColor=white"/>
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
-      <img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-999999.svg?logo=r&logoColor=white"/>
-      <img alt="vegan" src="https://img.shields.io/badge/vegan-008000.svg?logo=r&logoColor=white"/>
     </p>
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
