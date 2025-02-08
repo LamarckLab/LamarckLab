@@ -68,7 +68,32 @@
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
     </p>
 
-  <h2>🧰 Relevant R packages & Frameworks</h2>
+  <h2>🧰 Relevant R libraries & Frameworks</h2>
+    <p>
+      <img alt="data.table" src="https://img.shields.io/badge/data.table-0288D1.svg?logo=r&logoColor=white"/>
+      <img alt="DESeq2" src="https://img.shields.io/badge/DESeq2-118AB2.svg?logo=r&logoColor=white"/>
+      <img alt="dplyr" src="https://img.shields.io/badge/dplyr-3182BD.svg?logo=r&logoColor=white"/>
+      <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-377EB8.svg?logo=r&logoColor=white"/>
+      <img alt="ggpubr" src="https://img.shields.io/badge/ggpubr-8E44AD.svg?logo=r&logoColor=white"/>
+      <img alt="ggrepel" src="https://img.shields.io/badge/ggrepel-1F77B4.svg?logo=r&logoColor=white"/>
+      <img alt="ggsci" src="https://img.shields.io/badge/ggsci-4E79A7.svg?logo=r&logoColor=white"/>
+      <img alt="glue" src="https://img.shields.io/badge/glue-56B4E9.svg?logo=r&logoColor=white"/>
+      <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
+      <img alt="latex2exp" src="https://img.shields.io/badge/latex2exp-008080.svg?logo=r&logoColor=white"/>
+      <img alt="magrittr" src="https://img.shields.io/badge/magrittr-B22222.svg?logo=r&logoColor=white"/>
+      <img alt="Matplotlib (Pyplot)" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
+      <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"/>
+      <img alt="readr" src="https://img.shields.io/badge/readr-FFBB33.svg?logo=r&logoColor=white"/>
+      <img alt="scales" src="https://img.shields.io/badge/scales-31A354.svg?logo=r&logoColor=white"/>
+      <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
+      <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?logo=sympy&logoColor=white"/>
+      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
+      <img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-999999.svg?logo=r&logoColor=white"/>
+      <img alt="vegan" src="https://img.shields.io/badge/vegan-008000.svg?logo=r&logoColor=white"/>
+    </p>
+
+  <h2>💻 Relevant Python libraries & Frameworks</h2>
     <p>
       <img alt="data.table" src="https://img.shields.io/badge/data.table-0288D1.svg?logo=r&logoColor=white"/>
       <img alt="DESeq2" src="https://img.shields.io/badge/DESeq2-118AB2.svg?logo=r&logoColor=white"/>
