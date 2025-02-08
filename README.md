@@ -78,7 +78,6 @@
       <img alt="ggrepel" src="https://img.shields.io/badge/ggrepel-1F77B4.svg?logo=r&logoColor=white"/>
       <img alt="ggsci" src="https://img.shields.io/badge/ggsci-4E79A7.svg?logo=r&logoColor=white"/>
       <img alt="glue" src="https://img.shields.io/badge/glue-56B4E9.svg?logo=r&logoColor=white"/>
-      <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="latex2exp" src="https://img.shields.io/badge/latex2exp-008080.svg?logo=r&logoColor=white"/>
       <img alt="magrittr" src="https://img.shields.io/badge/magrittr-B22222.svg?logo=r&logoColor=white"/>
       <img alt="Matplotlib (Pyplot)" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
@@ -95,14 +94,6 @@
 
   <h2>💻 Relevant Python libraries & Frameworks</h2>
     <p>
-      <img alt="data.table" src="https://img.shields.io/badge/data.table-0288D1.svg?logo=r&logoColor=white"/>
-      <img alt="DESeq2" src="https://img.shields.io/badge/DESeq2-118AB2.svg?logo=r&logoColor=white"/>
-      <img alt="dplyr" src="https://img.shields.io/badge/dplyr-3182BD.svg?logo=r&logoColor=white"/>
-      <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-377EB8.svg?logo=r&logoColor=white"/>
-      <img alt="ggpubr" src="https://img.shields.io/badge/ggpubr-8E44AD.svg?logo=r&logoColor=white"/>
-      <img alt="ggrepel" src="https://img.shields.io/badge/ggrepel-1F77B4.svg?logo=r&logoColor=white"/>
-      <img alt="ggsci" src="https://img.shields.io/badge/ggsci-4E79A7.svg?logo=r&logoColor=white"/>
-      <img alt="glue" src="https://img.shields.io/badge/glue-56B4E9.svg?logo=r&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="latex2exp" src="https://img.shields.io/badge/latex2exp-008080.svg?logo=r&logoColor=white"/>
       <img alt="magrittr" src="https://img.shields.io/badge/magrittr-B22222.svg?logo=r&logoColor=white"/>
