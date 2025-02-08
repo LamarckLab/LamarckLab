@@ -80,6 +80,7 @@
       <img alt="glue" src="https://img.shields.io/badge/glue-56B4E9.svg?logo=r&logoColor=white"/>
       <img alt="latex2exp" src="https://img.shields.io/badge/latex2exp-008080.svg?logo=r&logoColor=white"/>
       <img alt="magrittr" src="https://img.shields.io/badge/magrittr-B22222.svg?logo=r&logoColor=white"/>
+      <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=r&logoColor=white"/>
       <img alt="readr" src="https://img.shields.io/badge/readr-FFBB33.svg?logo=r&logoColor=white"/>
       <img alt="scales" src="https://img.shields.io/badge/scales-31A354.svg?logo=r&logoColor=white"/>
       <img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-999999.svg?logo=r&logoColor=white"/>
