@@ -1,6 +1,6 @@
 <div align="center">
 
-  # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> &nbsp; &nbsp;Halooo~ &nbsp; Welcome to Lamarck's Lab !  &nbsp; &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
+  # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="120"/> &nbsp; &nbsp;Halooo~ &nbsp; Welcome to Lamarck's Lab !  &nbsp; &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="120"/>
   ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
 
   This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on.
