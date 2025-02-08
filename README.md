@@ -97,6 +97,7 @@
       <img alt="Biopython" src="https://img.shields.io/badge/Biopython-3776AB.svg?logo=python&logoColor=white"/>
       <img alt="copy (Python)" src="https://img.shields.io/badge/copy-3776AB.svg?logo=python&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
+      <img alt="logging (Python)" src="https://img.shields.io/badge/logging-3776AB.svg?logo=python&logoColor=white"/>
       <img alt="math (Python)" src="https://img.shields.io/badge/math-3776AB.svg?logo=python&logoColor=white"/>
       <img alt="Matplotlib (Pyplot)" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
