@@ -59,7 +59,6 @@
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"/>
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"/>
       <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
