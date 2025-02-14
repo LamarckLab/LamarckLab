@@ -57,6 +57,7 @@
       <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
       <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"/>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"/>
+      <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"/>
       <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"/>
