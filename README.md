@@ -23,12 +23,15 @@
 </a>
 
 
-<!--
+
 <a href="https://github.com/LamarckLab/github-readme-stats#gh-dark-mode-only">
 <img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LamarckLab&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&exclude_repo=github-readme-stats&theme=gruvbox&bg_color=000000#gh-dark-mode-only" alt="LamarckLab's Github stats"/>
 </a>
--->
 
+
+<!--
+![Lamarck's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=radical)
+-->
 
 <p align="center">
 <br>
