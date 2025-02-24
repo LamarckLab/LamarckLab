@@ -68,6 +68,7 @@
       <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"/>
       <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
+      <img alt="Ollama" src="https://img.shields.io/badge/Ollama-008080.svg?logo=ollama&logoColor=white"/>
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
       <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white"/>
