@@ -12,7 +12,6 @@
   **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
 
   <br>
-  
 
 <!--The best color: gruvbox-->
 
