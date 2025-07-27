@@ -18,11 +18,11 @@
 <div align="center"> 
 
 <a href="https://github.com/LamarckLab/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lamarck's GitHub Stats" style="display: inline-block; vertical-align: top;" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Lamarck's GitHub Stats" style="display: inline-block; vertical-align: top;" />
   </a>
 
   <a href="https://github.com/LamarckLab/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=buefy&hide_border=true" alt="Lamarck's Top Languages" style="display: inline-block; vertical-align: top;" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=dracula&hide_border=true" alt="Lamarck's Top Languages" style="display: inline-block; vertical-align: top;" />
   </a>
 
 
