@@ -22,9 +22,6 @@
 <a href="https://github.com/LamarckLab/github-readme-stats"><img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=buefy&hide_border=true" /></a>
 </a>
 
-<!--
-![Lamarck's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=radical)
--->
 
 <p align="center">
 <br>
