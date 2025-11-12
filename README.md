@@ -100,5 +100,5 @@
 
 
 
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<!-- ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg) -->
 </div>
