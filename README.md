@@ -67,6 +67,11 @@
     </p>
 
 ## 🚴‍♂️ My Ride Setup
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/Lamarck's%20bike.jpg" width="700" style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.3);">
+</p>
+
 | Component | Model |
 |------------|--------|
 | Frame | Giant Propel Advanced 2 |
@@ -76,6 +81,7 @@
 | Saddle | Specialized Power Pro Mirror |
 | Computer | Garmin Edge 540 |
 | Sensor | Garmin HRM-Pro Plus |
+
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
