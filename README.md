@@ -69,13 +69,11 @@
 ## 🚴‍♂️ My Ride Setup
 <table align="center">
   <tr>
-    <!-- 左边放图片 -->
     <td>
       <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/Lamarck's%20bike.jpg"
            width="450"
            style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.3);">
     </td>
-    <!-- 右边放表格 -->
     <td style="padding-left: 30px; vertical-align: top;">
       <table align="center"
              style="border-collapse:collapse; border:1px solid #444; text-align:center;">
@@ -88,16 +86,14 @@
         <tr><td align="center" style="border:1px solid #444;">Groupset</td><td align="center" style="border:1px solid #444;">Shimano R7120</td></tr>
         <tr><td align="center" style="border:1px solid #444;">Power Meter</td><td align="center" style="border:1px solid #444;">Sigeyi Spider</td></tr>
         <tr><td align="center" style="border:1px solid #444;">Saddle</td><td align="center" style="border:1px solid #444;">Specialized Power Pro Mirror</td></tr>
+        <tr><td align="center" style="border:1px solid #444;">Tires</td><td align="center" style="border:1px solid #444;">Specialized Mondo 700*28C</td></tr>
         <tr><td align="center" style="border:1px solid #444;">Cycling Computer</td><td align="center" style="border:1px solid #444;">Garmin Edge 540</td></tr>
         <tr><td align="center" style="border:1px solid #444;">HR Monitor</td><td align="center" style="border:1px solid #444;">Garmin HRM-Pro Plus</td></tr>
         <tr><td align="center" style="border:1px solid #444;">Helmet</td><td align="center" style="border:1px solid #444;">Giant Rev Pro MIPS</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">Tires</td><td align="center" style="border:1px solid #444;">Specialized Mondo 700*28c</td></tr>
       </table>
     </td>
   </tr>
 </table>
-
-
 
 
 <!-- ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg) -->
