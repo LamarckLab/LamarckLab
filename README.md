@@ -77,39 +77,19 @@
     </td>
     <!-- 右边放表格 -->
     <td style="padding-left: 30px; vertical-align: top;">
-      <table align="center" style="border-collapse:collapse; border:1px solid #444;">
+      <table align="center"
+             style="border-collapse:collapse; border:1px solid #444; text-align:center;">
         <tr>
-          <th style="padding:6px 12px; text-align:center; border:1px solid #444;">Gear</th>
-          <th style="padding:6px 12px; text-align:center; border:1px solid #444;">Specification</th>
+          <th align="center" style="padding:6px 12px; border:1px solid #444;">Gear</th>
+          <th align="center" style="padding:6px 12px; border:1px solid #444;">Specification</th>
         </tr>
-        <tr>
-          <td style="text-align:center; border:1px solid #444;">Frame</td>
-          <td style="text-align:center; border:1px solid #444;">Giant Propel Advanced 2</td>
-        </tr>
-        <tr>
-          <td style="text-align:center; border:1px solid #444;">Groupset</td>
-          <td style="text-align:center; border:1px solid #444;">Shimano R7120</td>
-        </tr>
-        <tr>
-          <td style="text-align:center; border:1px solid #444;">Wheelset</td>
-          <td style="text-align:center; border:1px solid #444;">Zipp 404</td>
-        </tr>
-        <tr>
-          <td style="text-align:center; border:1px solid #444;">Power Meter</td>
-          <td style="text-align:center; border:1px solid #444;">Sigeyi Spider</td>
-        </tr>
-        <tr>
-          <td style="text-align:center; border:1px solid #444;">Saddle</td>
-          <td style="text-align:center; border:1px solid #444;">Specialized Power Pro Mirror</td>
-        </tr>
-        <tr>
-          <td style="text-align:center; border:1px solid #444;">Computer</td>
-          <td style="text-align:center; border:1px solid #444;">Garmin Edge 540</td>
-        </tr>
-        <tr>
-          <td style="text-align:center; border:1px solid #444;">Sensor</td>
-          <td style="text-align:center; border:1px solid #444;">Garmin HRM-Pro Plus</td>
-        </tr>
+        <tr><td align="center" style="border:1px solid #444;">Frame</td><td align="center" style="border:1px solid #444;">Giant Propel Advanced 2</td></tr>
+        <tr><td align="center" style="border:1px solid #444;">Groupset</td><td align="center" style="border:1px solid #444;">Shimano R7120</td></tr>
+        <tr><td align="center" style="border:1px solid #444;">Wheelset</td><td align="center" style="border:1px solid #444;">Zipp 404</td></tr>
+        <tr><td align="center" style="border:1px solid #444;">Power Meter</td><td align="center" style="border:1px solid #444;">Sigeyi Spider</td></tr>
+        <tr><td align="center" style="border:1px solid #444;">Saddle</td><td align="center" style="border:1px solid #444;">Specialized Power Pro Mirror</td></tr>
+        <tr><td align="center" style="border:1px solid #444;">Computer</td><td align="center" style="border:1px solid #444;">Garmin Edge 540</td></tr>
+        <tr><td align="center" style="border:1px solid #444;">Sensor</td><td align="center" style="border:1px solid #444;">Garmin HRM-Pro Plus</td></tr>
       </table>
     </td>
   </tr>
