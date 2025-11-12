@@ -80,7 +80,7 @@
       <table align="center" style="text-align:center; border-collapse:collapse;">
         <tr>
           <th style="padding:6px 12px;">Component</th>
-          <th style="padding:6px 12px;">Model</th>
+          <th style="padding:6px 12px;">Configuration</th>
         </tr>
         <tr><td>Frame</td><td>Giant Propel Advanced 2</td></tr>
         <tr><td>Groupset</td><td>Shimano R7120</td></tr>
