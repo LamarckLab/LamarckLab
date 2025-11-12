@@ -67,16 +67,21 @@
     </p>
 
 ## 🚴‍♂️ My Ride Setup
-<table>
+<table align="center">
   <tr>
     <!-- 左边放图片 -->
     <td>
-      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/Lamarck's%20bike.jpg" width="450" style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.3);">
+      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/Lamarck's%20bike.jpg"
+           width="450"
+           style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.3);">
     </td>
     <!-- 右边放表格 -->
     <td style="padding-left: 30px; vertical-align: top;">
-      <table>
-        <tr><th>Component</th><th>Model</th></tr>
+      <table align="center" style="text-align:center; border-collapse:collapse;">
+        <tr>
+          <th style="padding:6px 12px;">Component</th>
+          <th style="padding:6px 12px;">Model</th>
+        </tr>
         <tr><td>Frame</td><td>Giant Propel Advanced 2</td></tr>
         <tr><td>Groupset</td><td>Shimano R7120</td></tr>
         <tr><td>Wheelset</td><td>Zipp 404</td></tr>
