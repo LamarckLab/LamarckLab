@@ -66,21 +66,28 @@
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
     </p>
 
-## 🚴‍♂️ My Ride Setup
+<table>
+  <tr>
+    <!-- 左边放图片 -->
+    <td>
+      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/Lamarck's%20bike.jpg" width="450" style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.3);">
+    </td>
+    <!-- 右边放表格 -->
+    <td style="padding-left: 30px; vertical-align: top;">
+      <table>
+        <tr><th>Component</th><th>Model</th></tr>
+        <tr><td>Frame</td><td>Giant Propel Advanced 2</td></tr>
+        <tr><td>Groupset</td><td>Shimano R7120</td></tr>
+        <tr><td>Wheelset</td><td>Zipp 404</td></tr>
+        <tr><td>Power Meter</td><td>Sigeyi Spider</td></tr>
+        <tr><td>Saddle</td><td>Specialized Power Pro Mirror</td></tr>
+        <tr><td>Computer</td><td>Garmin Edge 540</td></tr>
+        <tr><td>Sensor</td><td>Garmin HRM-Pro Plus</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/Lamarck's%20bike.jpg" width="700" style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.3);">
-</p>
-
-| Component | Model |
-|------------|--------|
-| Frame | Giant Propel Advanced 2 |
-| Groupset | Shimano R7120 |
-| Wheelset | Zipp 404 |
-| Power Meter | Sigeyi Spider |
-| Saddle | Specialized Power Pro Mirror |
-| Computer | Garmin Edge 540 |
-| Sensor | Garmin HRM-Pro Plus |
 
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
