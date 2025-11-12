@@ -66,6 +66,7 @@
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
     </p>
 
+## 🚴‍♂️ My Ride Setup
 <table>
   <tr>
     <!-- 左边放图片 -->
