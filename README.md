@@ -77,22 +77,44 @@
     </td>
     <!-- 右边放表格 -->
     <td style="padding-left: 30px; vertical-align: top;">
-      <table align="center" style="text-align:center; border-collapse:collapse;">
+      <table align="center" style="border-collapse:collapse; border:1px solid #444;">
         <tr>
-          <th style="padding:6px 12px;">Component</th>
-          <th style="padding:6px 12px;">Configuration</th>
+          <th style="padding:6px 12px; text-align:center; border:1px solid #444;">Gear</th>
+          <th style="padding:6px 12px; text-align:center; border:1px solid #444;">Specification</th>
         </tr>
-        <tr><td>Frame</td><td>Giant Propel Advanced 2</td></tr>
-        <tr><td>Groupset</td><td>Shimano R7120</td></tr>
-        <tr><td>Wheelset</td><td>Zipp 404</td></tr>
-        <tr><td>Power Meter</td><td>Sigeyi Spider</td></tr>
-        <tr><td>Saddle</td><td>Specialized Power Pro Mirror</td></tr>
-        <tr><td>Computer</td><td>Garmin Edge 540</td></tr>
-        <tr><td>Sensor</td><td>Garmin HRM-Pro Plus</td></tr>
+        <tr>
+          <td style="text-align:center; border:1px solid #444;">Frame</td>
+          <td style="text-align:center; border:1px solid #444;">Giant Propel Advanced 2</td>
+        </tr>
+        <tr>
+          <td style="text-align:center; border:1px solid #444;">Groupset</td>
+          <td style="text-align:center; border:1px solid #444;">Shimano R7120</td>
+        </tr>
+        <tr>
+          <td style="text-align:center; border:1px solid #444;">Wheelset</td>
+          <td style="text-align:center; border:1px solid #444;">Zipp 404</td>
+        </tr>
+        <tr>
+          <td style="text-align:center; border:1px solid #444;">Power Meter</td>
+          <td style="text-align:center; border:1px solid #444;">Sigeyi Spider</td>
+        </tr>
+        <tr>
+          <td style="text-align:center; border:1px solid #444;">Saddle</td>
+          <td style="text-align:center; border:1px solid #444;">Specialized Power Pro Mirror</td>
+        </tr>
+        <tr>
+          <td style="text-align:center; border:1px solid #444;">Computer</td>
+          <td style="text-align:center; border:1px solid #444;">Garmin Edge 540</td>
+        </tr>
+        <tr>
+          <td style="text-align:center; border:1px solid #444;">Sensor</td>
+          <td style="text-align:center; border:1px solid #444;">Garmin HRM-Pro Plus</td>
+        </tr>
       </table>
     </td>
   </tr>
 </table>
+
 
 
 
