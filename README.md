@@ -90,8 +90,8 @@
         <tr><td align="center" style="border:1px solid #444;">Saddle</td><td align="center" style="border:1px solid #444;">Specialized Power Pro Mirror</td></tr>
         <tr><td align="center" style="border:1px solid #444;">Cycling Computer</td><td align="center" style="border:1px solid #444;">Garmin Edge 540</td></tr>
         <tr><td align="center" style="border:1px solid #444;">Heart Rate Monitor</td><td align="center" style="border:1px solid #444;">Garmin HRM-Pro Plus</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">Helmet</td><td align="center" style="border:1px solid #444;">Giant Rev Pro MIPS</td>
-</tr>
+        <tr><td align="center" style="border:1px solid #444;">Helmet</td><td align="center" style="border:1px solid #444;">Giant Rev Pro MIPS</td></tr>
+        <tr><td align="center" style="border:1px solid #444;">Tires</td><td align="center" style="border:1px solid #444;">Specialized Mondo TLR 700×28C</td></tr>
       </table>
     </td>
   </tr>
