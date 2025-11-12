@@ -69,17 +69,13 @@
 ## 🚴‍♂️ My Ride Setup
 | Component | Model |
 |------------|--------|
-| 🚴 Frame | Giant Propel Advanced 2 |
-| ⚙️ Groupset | Shimano R7120 |
-| 🛞 Wheelset | Zipp 404 |
-| ⚡ Power Meter | Sigeyi Spider |
-| 🪶 Saddle | Specialized Power Pro Mirror |
-| 💻 Computer | Garmin Edge 540 |
-| ❤️ Sensor | Garmin HRM-Pro Plus |
-
-> “Ride fast, code faster.” 🧠💨  
-
----
+| Frame | Giant Propel Advanced 2 |
+| Groupset | Shimano R7120 |
+| Wheelset | Zipp 404 |
+| Power Meter | Sigeyi Spider |
+| Saddle | Specialized Power Pro Mirror |
+| Computer | Garmin Edge 540 |
+| Sensor | Garmin HRM-Pro Plus |
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
