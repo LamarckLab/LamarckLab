@@ -66,6 +66,20 @@
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
     </p>
 
+## 🚴‍♂️ My Ride Setup
+| Component | Model |
+|------------|--------|
+| 🚴 Frame | Giant Propel Advanced 2 |
+| ⚙️ Groupset | Shimano R7120 |
+| 🛞 Wheelset | Zipp 404 |
+| ⚡ Power Meter | Sigeyi Spider |
+| 🪶 Saddle | Specialized Power Pro Mirror |
+| 💻 Computer | Garmin Edge 540 |
+| ❤️ Sensor | Garmin HRM-Pro Plus |
+
+> “Ride fast, code faster.” 🧠💨  
+
+---
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
