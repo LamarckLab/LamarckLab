@@ -14,13 +14,6 @@
 
 <!--The best color: gruvbox-->
 
-<div align="center"> 
-  
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=gruvbox)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=gruvbox)
-
-</div>
-
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=gruvbox)
