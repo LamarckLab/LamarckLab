@@ -14,13 +14,18 @@
 
 <!--The best color: gruvbox-->
 
-<div align="center" style="white-space: nowrap;">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=gruvbox" width="450" height="150" style="display: inline-block; margin-right: 0px;">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=gruvbox" width="450" height="150" style="display: inline-block;">
+<div align="center"> 
+  
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=gruvbox)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=gruvbox)
+
 </div>
 
-
-
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=gruvbox)
+  
+</div>
 
   <h2>🛠️ Tech Stack & Favorite Tools</h2>
     <p>
