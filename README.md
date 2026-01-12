@@ -15,7 +15,7 @@
 <!--The best color: gruvbox-->
 
 <div align="center" style="white-space: nowrap;">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=gruvbox" width="450" height="150" style="display: inline-block; margin-right: 20px;">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=gruvbox" width="450" height="150" style="display: inline-block; margin-right: 0px;">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=gruvbox" width="450" height="150" style="display: inline-block;">
 </div>
 
