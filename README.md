@@ -15,14 +15,11 @@
 <!--The best color: gruvbox-->
 
 <div align="center"> 
-<!--
-  <a href="https://github.com/LamarckLab/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Lamarck's GitHub Stats" style="display: inline-block; vertical-align: top;" />
-  </a>
-  <a href="https://github.com/LamarckLab/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=dracula&hide_border=true" alt="Lamarck's Top Languages" style="display: inline-block; vertical-align: top;" />
-  </a>
--->
+  
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=gruvbox)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=gruvbox)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=gruvbox)
+  
 </div>
 
   <h2>🛠️ Tech Stack & Favorite Tools</h2>
@@ -94,4 +91,12 @@
 
 
 <!-- ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg) -->
+<!--
+  <a href="https://github.com/LamarckLab/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Lamarck's GitHub Stats" style="display: inline-block; vertical-align: top;" />
+  </a>
+  <a href="https://github.com/LamarckLab/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=dracula&hide_border=true" alt="Lamarck's Top Languages" style="display: inline-block; vertical-align: top;" />
+  </a>
+-->
 </div>
