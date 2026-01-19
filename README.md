@@ -17,9 +17,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=tokyonight" width="500" height="200" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=tokyonight" width="500" height="200" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=tokyonight" width="500" height="200" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=tokyonight" height="200" />
   
 </div>
 
