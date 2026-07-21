@@ -2,12 +2,11 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> Halooo~ &nbsp; Welcome to Lamarck's Lab !  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
-
-This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on.
+Here you'll find notes, workflows, and small tools I've built along the way.
 
 [![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab)
 [![Email](https://img.shields.io/badge/Email-lamarckLab@163.com-red?style=flat-square&logo=gmail)](mailto:lamarckLab@163.com)
+![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen&style=flat-square)
 
 **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
 
@@ -16,7 +15,7 @@ This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on
 <img src="https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=tokyonight" height="165" alt="Lamarck's GitHub stats" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=tokyonight" height="165" alt="Top languages" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=tokyonight" height="165" alt="GitHub streak" />
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=tokyonight" height="165" alt="GitHub streak" /> -->
 
 </div>
 
@@ -38,12 +37,12 @@ This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"/>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
       <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"/>
+      <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"/>
       <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"/>
       <img alt="ModelScope" src="https://img.shields.io/badge/ModelScope-624AFF.svg?logo=modelscope&logoColor=white"/>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"/>
-      <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"/>
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
       <img alt="Ollama" src="https://img.shields.io/badge/Ollama-008080.svg?logo=ollama&logoColor=white"/>
