@@ -1,28 +1,28 @@
 <div align="center">
 
-  # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> Halooo~ &nbsp; Welcome to Lamarck's Lab !  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/>
-  ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> Halooo~ &nbsp; Welcome to Lamarck's Lab !  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/>
 
-  This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on.
+![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
 
+**Protein structure prediction · Antibody design · Bioinformatics**
 
-  ## Connect With Me
-  [![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab)
-  [![Email](https://img.shields.io/badge/Email-lamarckLab@163.com-red?style=flat-square&logo=gmail)](mailto:lamarckLab@163.com)
+This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on.
 
+[![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab)
+[![Email](https://img.shields.io/badge/Email-lamarckLab@163.com-red?style=flat-square&logo=gmail)](mailto:lamarckLab@163.com)
 
-  **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
-  <br>
+**Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
 
 <!--The best color: gruvbox-->
 
-<div align="center">
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=tokyonight" height="163" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=tokyonight" height="163" />
-  <!--img src="https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=tokyonight" height="180" /-->
-  
+<img src="https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=tokyonight" height="165" alt="Lamarck's GitHub stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=tokyonight" height="165" alt="Top languages" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=tokyonight" height="165" alt="GitHub streak" />
+
 </div>
+
+<div align="center">
 
   <h2>🛠️ Tech Stack & Favorite Tools</h2>
     <p>
@@ -52,6 +52,7 @@
       <img alt="Ollama" src="https://img.shields.io/badge/Ollama-008080.svg?logo=ollama&logoColor=white"/>
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
+      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"/>
       <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white"/>
       <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
       <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
@@ -62,43 +63,34 @@
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white"/>
     </p>
 
+</div>
+
+<div align="center">
+
 ## 🚴‍♂️ My Ride Setup
-<table align="center">
+
+<table>
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/Lamarck's%20bike.jpg"
-           width="450"
-           style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.3);">
+    <td valign="middle">
+      <a href="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/Lamarck's%20bike.jpg">
+        <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/Lamarck's%20bike.jpg" width="450" alt="Lamarck's bike — click for full resolution"/>
+      </a>
     </td>
-    <td style="padding-left: 30px; vertical-align: top;">
-      <table align="center"
-             style="border-collapse:collapse; border:1px solid #444; text-align:center;">
-        <tr>
-          <th align="center" style="padding:6px 12px; border:1px solid #444;">Component</th>
-          <th align="center" style="padding:6px 12px; border:1px solid #444;">Specification</th>
-        </tr>
-        <tr><td align="center" style="border:1px solid #444;">Frame</td><td align="center" style="border:1px solid #444;">Giant Propel Advanced 2</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">Wheelset</td><td align="center" style="border:1px solid #444;">Zipp 404</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">Groupset</td><td align="center" style="border:1px solid #444;">Shimano R7120</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">Power Meter</td><td align="center" style="border:1px solid #444;">Sigeyi Spider</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">Saddle</td><td align="center" style="border:1px solid #444;">Specialized Power Pro Mirror</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">Helmet</td><td align="center" style="border:1px solid #444;">Giant Rev Pro MIPS</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">Tires</td><td align="center" style="border:1px solid #444;">Specialized Mondo 700*28C</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">Cycling Computer</td><td align="center" style="border:1px solid #444;">Garmin Edge 540</td></tr>
-        <tr><td align="center" style="border:1px solid #444;">HR Monitor</td><td align="center" style="border:1px solid #444;">Garmin HRM-Pro Plus</td></tr>
+    <td valign="middle">
+      <table>
+        <tr><th align="center">Component</th><th align="center">Specification</th></tr>
+        <tr><td align="center">Frame</td><td align="center">Giant Propel Advanced 2</td></tr>
+        <tr><td align="center">Wheelset</td><td align="center">Zipp 404</td></tr>
+        <tr><td align="center">Groupset</td><td align="center">Shimano R7120</td></tr>
+        <tr><td align="center">Power Meter</td><td align="center">Sigeyi Spider</td></tr>
+        <tr><td align="center">Saddle</td><td align="center">Specialized Power Pro Mirror</td></tr>
+        <tr><td align="center">Helmet</td><td align="center">Giant Rev Pro MIPS</td></tr>
+        <tr><td align="center">Tires</td><td align="center">Specialized Mondo 700*28C</td></tr>
+        <tr><td align="center">Cycling Computer</td><td align="center">Garmin Edge 540</td></tr>
+        <tr><td align="center">HR Monitor</td><td align="center">Garmin HRM-Pro Plus</td></tr>
       </table>
     </td>
   </tr>
 </table>
 
-
-<!-- ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg) -->
-<!--
-  <a href="https://github.com/LamarckLab/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LamarckLab&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Lamarck's GitHub Stats" style="display: inline-block; vertical-align: top;" />
-  </a>
-  <a href="https://github.com/LamarckLab/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=dracula&hide_border=true" alt="Lamarck's Top Languages" style="display: inline-block; vertical-align: top;" />
-  </a>
--->
 </div>
