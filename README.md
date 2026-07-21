@@ -4,8 +4,8 @@
 
 Here you'll find notes, workflows, and small tools I've built along the way.
 
-[![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab)
-[![Email](https://img.shields.io/badge/Email-lamarckLab@163.com-red?style=flat-square&logo=gmail)](mailto:lamarckLab@163.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab) &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-lamarckLab@163.com-red?style=flat-square&logo=gmail)](mailto:lamarckLab@163.com) &nbsp;&nbsp;
 ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen&style=flat-square)
 
 **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
