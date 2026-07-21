@@ -4,8 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen)
 
-**Protein structure prediction · Antibody design · Bioinformatics**
-
 This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on.
 
 [![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab)
@@ -36,15 +34,15 @@ This is Lamarck's GitHub page! Here you'll find some useful tools I'm working on
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
       <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"/>
+      <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black"/>
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"/>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
       <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"/>
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"/>
-      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-007ACC.svg?logo=plotly&logoColor=white"/>
       <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"/>
+      <img alt="ModelScope" src="https://img.shields.io/badge/ModelScope-624AFF.svg?logo=modelscope&logoColor=white"/>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"/>
-      <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
       <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"/>
       <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"/>
