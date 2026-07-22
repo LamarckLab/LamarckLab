@@ -90,3 +90,29 @@ Here you'll find notes, workflows, and small tools I've built along the way.
 </table>
 
 </div>
+
+<div align="center">
+
+<details>
+<summary><b>☕ Buy me a coffee</b></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/wechat-pay.png" height="260" alt="WeChat Pay"/>
+      <br/>
+      <sub><b>WeChat Pay</b></sub>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/binance-pay.png" height="260" alt="Binance Pay"/>
+      <br/>
+      <sub><b>Binance Pay</b></sub>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+</div>
