@@ -101,12 +101,12 @@ Here you'll find notes, workflows, and small tools I've built along the way.
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/wechat-pay.png" height="260" alt="WeChat Pay"/>
+      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/wechat-pay.png" height="340" alt="WeChat Pay"/>
       <br/>
       <sub><b>WeChat Pay</b></sub>
     </td>
     <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/binance-pay.png" height="260" alt="Binance Pay"/>
+      <img src="https://raw.githubusercontent.com/LamarckLab/LamarckLab/main/images/binance-pay.png" height="340" alt="Binance Pay"/>
       <br/>
       <sub><b>Binance Pay</b></sub>
     </td>
