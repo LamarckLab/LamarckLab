@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=28&amp;duration=2400&amp;pause=1100&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=64&amp;lines=Welcome+to+LamarckLab%E2%80%83%C2%B7%E2%80%83L.+Mingkai;Computational+Biology+%C2%B7+Structure+Prediction+%C2%B7+Protein+Design" alt="LamarckLab · L. Mingkai — Computational Biology, Structure Prediction, Protein Design"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-LamarckLab-black?style=flat-square&logo=github)](https://github.com/LamarckLab) &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-lamarckLab@163.com-red?style=flat-square&logo=gmail)](mailto:lamarckLab@163.com) &nbsp;&nbsp;
+[![PyPI](https://img.shields.io/badge/PyPI-LamarckLab-3775A9?style=flat-square&logo=pypi)](https://pypi.org/user/LamarckLab/) &nbsp;&nbsp;
 ![Profile views](https://komarev.com/ghpvc/?username=LamarckLab&color=brightgreen&style=flat-square)
 
 **Have a question or want to chat about technology?** Feel free to [open an issue](https://github.com/LamarckLab/LamarckLab/issues) and ask me anything.
