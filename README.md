@@ -10,10 +10,8 @@
 
 <!--The best color: gruvbox-->
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=LamarckLab&show_icons=true&theme=tokyonight" height="165" alt="Lamarck's GitHub stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=tokyonight" height="165" alt="Top languages" />
-
-<!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=LamarckLab&theme=tokyonight" height="165" alt="GitHub streak" /> -->
+<img src="https://lamarcklab-stats.vercel.app/api?username=LamarckLab&show_icons=true&theme=tokyonight" height="165" alt="Lamarck's GitHub stats" />
+<img src="https://lamarcklab-stats.vercel.app/api/top-langs/?username=LamarckLab&layout=compact&theme=tokyonight" height="165" alt="Top languages" />
 
 </div>
 
